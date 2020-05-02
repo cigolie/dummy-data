@@ -1,0 +1,28 @@
+{
+
+ "exams": [
+ 
+  {   "id":1,
+    "universityYear":2019,
+    "studyYear": 1,
+    "section":"IR",
+    "numarOfPlaces":60,
+    "subjectExam":"LFTA",
+    "teacher":"MD",
+    "classroom":"A02",
+    "date":"2019-02-09 08:00:00"
+ },
+  {   "id":2,
+    "universityYear":2020,
+    "studyYear": 2,
+    "section":"IR",
+    "numarOfPlaces":60,
+    "subjectExam":"SDA",
+    "teacher":"SM",
+    "classroom":"AM",
+    "date":"2020-02-18 10:00:00"
+ }
+  
+  ]
+
+}
