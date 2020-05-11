@@ -10,13 +10,13 @@
     "subjectExam":"Limbaje formale si teoria automatelor",
     "teacher":"M. Dragan",
     "classroom":"A02",
-    "date":"2019-02-09 08:00:00"
+    "date":"2019-02-11 09:00:00"
  },
   {   "id":2,
     "universityYear":2020,
     "studyYear": 2,
     "section":"IR",
-    "numberOfPlaces":60,
+    "numberOfPlaces":40,
     "subjectExam":"Structuri de date avansate",
     "teacher":"M. Sancira",
     "classroom":"AM",
@@ -26,7 +26,7 @@
     "universityYear":2019,
     "studyYear": 1,
     "section":"IR",
-    "numberOfPlaces":60,
+    "numberOfPlaces":80,
     "subjectExam":"Logica computationala",
     "teacher":"A. Craciun",
     "classroom":"A02",
@@ -36,11 +36,11 @@
     "universityYear":2020,
     "studyYear": 2,
     "section":"IR",
-    "numberOfPlaces":60,
+    "numberOfPlaces":50,
     "subjectExam":"Teoria grafurilor si combinatorica",
     "teacher":"M. Marin",
     "classroom":"AM",
-    "date":"2020-02-18 10:00:00"
+    "date":"2020-02-20 11:00:00"
  }
   
   ]
