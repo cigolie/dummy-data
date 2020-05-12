@@ -10,6 +10,7 @@
     "subjectExam":"Limbaje formale si teoria automatelor",
     "teacher":"M. Dragan",
     "classroom":"A02",
+   "semester":2,
     "date":"2019-02-11 09:00:00"
  },
   {   "id":2,
@@ -20,6 +21,7 @@
     "subjectExam":"Structuri de date avansate",
     "teacher":"M. Sancira",
     "classroom":"A02",
+   "semester":1,
     "date":"2020-02-18 10:00:00"
  },
   {   "id":3,
@@ -30,6 +32,7 @@
     "subjectExam":"Logica computationala",
     "teacher":"A. Craciun",
     "classroom":"AM",
+   "semester":1,
     "date":"2019-02-09 08:00:00"
  },
   {   "id":4,
@@ -40,6 +43,7 @@
     "subjectExam":"Teoria grafurilor si combinatorica",
     "teacher":"M. Marin",
     "classroom":"AM",
+   "semester":1,
     "date":"2020-02-20 11:00:00"
  }
   
