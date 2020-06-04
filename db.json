@@ -82,6 +82,42 @@
    "semester":2,
     "date":"2020-06-10 10:00:00"
  }
+   ,
+  {   "id":8,
+    "universityYear":2020,
+    "studyYear": 2,
+    "section":"IE",
+    "numberOfSeats":70,
+    "subjectExam":"Database",
+    "teacher":"M. Sancira",
+    "classroom":"AM",
+   "semester":2,
+    "date":"2020-06-15 09:00:00"
+ }
+  ,
+  {   "id":9,
+    "universityYear":2019,
+    "studyYear": 1,
+    "section":"IA",
+    "numberOfSeats":50,
+    "subjectExam":"Algoritmi si structuri de date",
+    "teacher":"D. Zaharie",
+    "classroom":"A02",
+   "semester":1,
+    "date":"2019-01-21 08:00:00"
+ }
+  ,
+  {   "id":10,
+    "universityYear":2019,
+    "studyYear": 1,
+    "section":"IR",
+    "numberOfSeats":70,
+    "subjectExam":"Algebra si geometrie computationala",
+    "teacher":"M. Chis",
+    "classroom":"AM",
+   "semester":1,
+    "date":"2019-01-28 15:30:00"
+ }
   
   ]
 
