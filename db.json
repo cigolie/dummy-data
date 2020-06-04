@@ -46,6 +46,42 @@
    "semester":1,
     "date":"2020-02-20 11:00:00"
  }
+  ,
+  {   "id":5,
+    "universityYear":2018,
+    "studyYear": 1,
+    "section":"IR",
+    "numberOfSeats":50,
+    "subjectExam":"Programare 1",
+    "teacher":"M. Neagul",
+    "classroom":"A02",
+   "semester":1,
+    "date":"2018-01-20 11:00:00"
+ }
+  ,
+  {   "id":6,
+    "universityYear":2020,
+    "studyYear": 2,
+    "section":"IR",
+    "numberOfSeats":80,
+    "subjectExam":"Inginerie software",
+    "teacher":"C. Mindruta",
+    "classroom":"AM",
+   "semester":2,
+    "date":"2020-06-20 13:00:00"
+ }
+   ,
+  {   "id":7,
+    "universityYear":2020,
+    "studyYear": 2,
+    "section":"IR",
+    "numberOfSeats":90,
+    "subjectExam":"Retele de calculatoare",
+    "teacher":"M. Neagul",
+    "classroom":"AM",
+   "semester":2,
+    "date":"2020-06-10 10:00:00"
+ }
   
   ]
 
