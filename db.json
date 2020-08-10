@@ -121,6 +121,8 @@
   
   ],
  
- "password": "admin",
+ "password": [{
+  "password" : "admin"
+ }]
 
 }
