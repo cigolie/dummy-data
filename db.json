@@ -121,8 +121,8 @@
   
   ],
  
- "admin" : {
-  "password": "ibm"
- }
+ "acces" : [
+  { "id":1 , "password" : "admin" }
+ ]
 
 }
